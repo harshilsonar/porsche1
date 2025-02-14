@@ -1,0 +1,1079 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.btn
+{
+    height: 55px;
+    border: none;
+}
+.main
+{
+   font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.btn:hover
+{
+    background-color: lightgray;
+}
+.iq
+{
+    height: 55px;
+   margin-left: 40%;
+}
+.iq img
+{
+   padding-top: 5%;
+}
+
+.box16
+{
+    background-image: url('images/porsche-normal\ \(6\).webp');
+    height: 280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.images17
+{
+    background-image: url('images/porsche-normal\ \(7\).webp');
+    height: 280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.images18
+{
+    background-image: url('images/porsche-normal\ \(8\).webp');
+    height: 280px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.images19
+{
+    background-image: url('images/porsche-normal\ \(9\).webp');
+    height: 280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box2 a {
+  transition: all 0.12s;
+}
+
+.box2 a:hover {
+  background-color: rgb(221, 221, 221);
+  border-radius: 5px;
+}
+
+.box1 {
+  margin: auto;
+}
+
+.box1 a img {
+  width: 280px;
+  height: 50px;
+}
+
+.box3 {
+  width: 85%;
+}
+
+.pt-2 {
+  font-size: 20px;
+  color: black;
+  font-weight: normal;
+}
+
+.icone {
+  color: black;
+  font-size: 25px;
+}
+
+.tab-content {
+  position: absolute;
+  left: 100%;
+  top: 0%;
+  width: 90%;
+  height: 100vh;
+  background-color: whitesmoke;
+  overflow: auto;
+
+}
+
+.image-2 {
+  width: 200px;
+  height: 80px;
+  margin: auto;
+  transition: 0.8s;
+}
+
+.image-2:hover {
+  transform: scale(1.1);
+  background-color: rgb(221, 221, 221);
+  border-radius: 5px;
+}
+
+.box4 {
+  width: 300px;
+  height: 250px;
+  margin: auto;
+}
+
+.text3 {
+  width: 110px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text3 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+}
+
+.text3:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text4 {
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text4 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+}
+
+.text4:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text5 {
+  width: 280px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+  padding-left: 10px;
+}
+
+.text5 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+}
+
+.text5:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text6 {
+  width: 160px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text6 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+}
+
+.text6:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text7 {
+  width: 280px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text7 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+}
+
+.text7:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.box5 {
+  width: 300px;
+  height: 500px;
+  margin: auto;
+}
+
+.text8 {
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text8 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+}
+
+.text8:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text9 {
+  width: 250px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text9 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65)
+}
+
+.text9:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text10 {
+  width: 280px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text10 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65)
+}
+
+.text10:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text11 {
+  width: 280px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text11 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65)
+}
+
+.text11:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text12 {
+  width: 230px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text12 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65)
+}
+
+.text12:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text13 {
+  width: 240px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text13 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65)
+}
+
+.text13:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text14 {
+  width: 280px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text14 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65)
+}
+
+.text14:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.box6 {
+  width: 300px;
+  height: 400px;
+  margin: auto;
+}
+
+.text15 {
+  width: 130px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text15 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+  text-align: center;
+}
+
+.text15:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text16 {
+  width: 300px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text16 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+  padding-left: 10px;
+}
+
+.text16:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text17 {
+  width: 180px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text17 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+  padding-left: 10px;
+}
+
+.text17:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text18 {
+  width: 60px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text18 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+  padding-left: 10px;
+}
+
+.text18:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text19 {
+  width: 300px;
+  height: 60px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text19 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+  padding-left: 10px;
+}
+
+.text19:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.text20 {
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  transition: all 0.5s;
+}
+
+.text20 h6 {
+  font-size: 22px;
+  font-weight: normal;
+  color: rgb(65, 65, 65);
+  padding-left: 10px;
+}
+
+.text20:hover {
+  background-color: rgb(221, 221, 221);
+}
+
+.box7 {
+  width: 320px;
+  height: 400px;
+  margin: auto;
+}
+
+.input {
+  width: 100%;
+  height: 60px;
+  padding-left: 0px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.button {
+  width: 100%;
+  height: 60px;
+  border: 1px solid black;
+}
+
+.ri-focus-3-line {
+  font-size: 25px;
+}
+
+.text21 {
+  position: absolute;
+  top: 75%;
+  left: 15%;
+}
+
+.text21 a {
+  color: white;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+
+.icone5 {
+  position: absolute;
+  top: -10%;
+  left: -10%;
+  font-size: 50px;
+  color: red;
+}
+
+.text21 a:hover {
+  color: rgb(182, 4, 4);
+}
+
+.text22 {
+  position: absolute;
+  top: 75%;
+  left: 10%;
+}
+
+.text22 a {
+  color: white;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+
+.text22 a:hover {
+  color: rgb(182, 4, 4);
+}
+
+.text23 {
+  position: absolute;
+  top: 75%;
+  left: 10%;
+}
+
+.text23 a {
+  color: white;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+
+.text23 a:hover {
+  color: rgb(182, 4, 4);
+}
+
+.text24 {
+  position: absolute;
+  top: 75%;
+  left: 10%;
+}
+.text24 a {
+  color: white;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+.text24 a:hover {
+  color: rgb(182, 4, 4);
+}
+.icone6 {
+  position: absolute;
+  top: -10%;
+  left: -19%;
+  font-size: 50px;
+  color: red;
+}
+.text26
+{
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 95%;
+  height: 80%;
+}
+.box12
+{
+  color: black;
+  background-color: white;
+  margin-right: 20px;
+}
+.box12:hover
+{
+  background-color: red;
+  color: white;
+}
+.box13
+{
+  border: 1px solid white;
+  color: white;
+}
+.box13:hover
+{
+  color: red;
+  border: 1px solid red;
+}
+.box15
+{
+  transition: all 0.2s;
+}
+.box15 a
+{
+  margin-left: 70px;
+  color: white;
+  background-color: #313639;
+}
+.box15 a:hover
+{
+  background-color: red;
+  color: white;
+}
+
+.text30
+{
+  position: absolute;
+  top: 80%;
+  left: 5%;
+}
+.text30 a
+{
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+.text30 a:hover
+{
+  color: #df1827;
+} 
+video
+{
+  object-fit: cover;
+  object-position: center;
+}
+.text-50
+{
+  color: black;
+  padding-top: 0px;
+  transition: all 0.10s;
+}
+.text-50:hover
+{
+  color: #df1827;
+}
+.text-51 a::after
+{
+  content: "";
+  position: absolute;
+  top: 88%;
+  left: 0%;
+  display: block;
+  width: 0%;
+  height: 3px;
+  background-color: #df1827;
+}
+.text-51 a:hover::after
+{
+  width: 100%;
+}
+.box-11 a
+{
+  color: black;
+  transition: all 0.5s;
+}
+.box-11 a:hover
+{
+  color: #df1827;
+}
+.box-12 a
+{
+  background-color: #313639;
+  color: white;
+  transition: all 0.4s;
+}
+.box-12 a:hover
+{
+  background-color: #df1827;
+  color: white;
+}
+.boxs-13 a
+{
+  background-color:  #313639;
+  font-size: 25px;
+  padding: 10px;
+}
+.boxs-13 a:hover
+{
+  background-color: #df1827;
+}
+.boxs-14
+{
+  background-color: #191f22;
+  height: 400PX;
+}
+.boxs-15
+{
+  width: 280px;
+  height: 50px;
+  background-color: #4b4b4b;
+
+}
+.boxs-17 a i
+{
+  font-size: 25px;
+
+}
+.boxs-15
+{
+  margin-bottom: 15px;
+}
+.boxs-15 a
+{   
+  width: 100%;
+  height: 50px;
+}
+.boxs-16
+{
+  width: 280px;
+  height: 50px;
+  background-color: #4b4b4b;
+}
+.boxs-19 i
+{
+  font-size: 25px;
+}
+.boxs-20 P
+{
+  color: #FFFFFF;
+}
+.boxs-20 a
+{
+  color: #FFFFFF;
+  transition: all 0.3S;
+}
+.boxs-20 a:hover
+{
+  color: #df1827;
+  text-decoration: none;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+  }
+  .show
+  {
+    padding-top: 1%;
+  }
+  .system
+  {
+    margin-top: 0%;
+  }
+  .por
+  {
+    margin-top:10px;
+  }
+  .letter
+  {
+    margin-top: 25px;
+  }
+  .letter p
+  {
+    margin-left: 25px;
+    padding-top: 20px;
+  }
+  .inr
+  {
+    margin-top: -41px;
+    font-size:22px;
+    color: azure;
+    font-weight: 400;
+  }
+  .btn-so
+  {
+    height: 7%; 
+    width: 9%;
+    background-color: rgb(255, 255, 255);
+   margin-top: 19%;
+   margin-left:3%;
+   padding-top: 12px;
+  padding-left: 5px;
+  }
+  .ico
+  {
+    padding-right: 5px; 
+  }
+
+  .btn-so .pre
+{
+  text-decoration: none ;
+  color: black;
+
+}
+.btn-so:hover
+{
+  background-color: red;
+}
+.btn-so .pre:hover
+{
+  color: aliceblue; 
+}
+.btn-so1
+{
+  height: 7%; 
+  width: 9%;
+ margin-top: 19%;
+ margin-left:15%;
+ padding-top: 12px;   
+padding-left: 1px;
+border: 2px solid rgb(255, 251, 251);
+position: absolute;
+}
+.ico1
+{
+  padding-right: 5px; 
+}
+.btn-so1 .pre1
+{
+  text-decoration: none ;
+  color: rgb(255, 245, 245);
+
+}
+.btn-so1:hover
+{
+  border: 2px solid red;
+}
+.btn-so1 .pre1:hover
+{
+  color: red; 
+}
+#first
+{
+  margin-left:-23px;
+}
+#first1
+{
+  margin-left: 15px;
+}
+#first2
+{
+  margin-left: -5px;
+}
+ .compare
+ {
+margin-top: -35px;
+color: #fff;
+font-size: 20px;
+font-weight: bold;
+ } 
+ .compare a
+ {
+  text-decoration: none;
+  color: #fff;
+ }
+ .compare i
+ {
+  color: red;
+  margin-left: 10px;
+ }
+.compare a:hover
+{
+  color: red;
+}
+.dis
+{
+  height: 100%;
+  width: 100;
+}
+.dis img
+{
+  width: 100%;
+}
+ .plo i
+ {
+    color: red;
+ }
+ .plo:hover::after
+ {
+  content: "";
+  width: 21%;
+  background-color: red;
+  height: 3px;
+  position: absolute;
+  margin-left: -175px;
+ }
+ .plo span:hover
+ {
+  color: red;
+ }
+ .plo1 i
+ {
+    color: red;
+ }
+ .plo1 span:hover
+ {
+  color: red;
+ }
+ .plo2 i
+ {
+    color: red;
+ }
+ .plo2 span:hover
+ {
+  color: red;
+ }
+ .plo3 i
+ {
+    color: red;
+ }
+ .plo3 span:hover
+ {
+  color: red;
+ }
+ .plo1:hover::after
+ {
+  content: "";
+  width:21%;
+  background-color: red;
+  height: 3px;
+  position: absolute;
+  margin-left: -125px;
+ }
+ .plo2:hover::after
+ {
+  content: "";
+  width: 21%;
+  background-color: red;
+  height: 3px;
+  position: absolute;
+  margin-left: -135px;
+ }
+ .plo3:hover::after
+ {
+  content: "";
+  width: 21%;
+  background-color: red;
+  height: 3px;
+  position: absolute;
+  margin-left: -224px;
+ }
+tr
+{
+  margin-left: 50%;
+}
+.classic
+{
+  margin-top: 10%;
+}
+.classic span:hover
+{
+  color: red;
+  cursor: pointer;
+}
+.classic button
+{
+  height: 45px;
+  width: 100%;
+  background-color: #313639;
+}
+.classic button i
+{
+  font-size: 25px;
+  margin-left: -55%;
+  color: aliceblue;
+} 
+button .share
+{
+  margin-left: 35px;
+  color:white ;
+
+}
+.pop
+{
+  background-color: aliceblue;
+  justify-content: space-between;
+  justify-content: space-evenly;
+}
+.facebook i
+{
+  background-color: blue;
+}
+.xcom i
+{
+background-color: skyblue;
+}
+.digg i
+{
+  background-color: black;
+}
+.in i
+{
+  background-color: rgb(66, 66, 221);
+}
+.pick i
+{
+  background-color: red;
+}
+.button:hover.pop
+{
+  display: block;
+}
+.pop1
+{
+  margin-top: 5%;
+  justify-content: space-between;
+  justify-content: space-evenly;
+  font-size: 30px;
+}
+.facebook1 i:hover
+{
+  /* background-color: ; */
+  color:blue ;
+}
+.xcom1 i:hover
+{
+color: skyblue;
+}
+.digg1 i:hover
+{
+  color: black;
+}
+.in1 i:hover
+{
+  color: rgb(66, 66, 221);
+}
+.pick1 i:hover
+{
+  color: red;
+}
+footer
+{
+  height: 250px;
+  width: 100%;
+  background-color: #313639;
+}
+footer h3
+{
+  padding-left:10% ;
+}
+.dropup
+{
+  margin-left: 10%;
+  padding-top: 3%;
+}
+.dropdown-item:hover
+{
+  color: red;
+}
+footer p{
+  margin-left: 10%;
+  color: #fff;
+}
+footer a
+{
+  color: #fff;
+}
+footer a:hover
+{
+  color: red;
+}
+.m-03-copyright
+{
+  margin-top: 2%;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+#cheer {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#cheer img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
